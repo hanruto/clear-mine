@@ -1,4 +1,2 @@
 # mine
-this is a game by css3 and js
-this game archive more function of mine clearance and it is very cool
-so i like you will like it
+在线演示地址：http://htmlpreview.github.io/?https://github.com/soWhiteSoColl/clear-mine/blob/master/mine/mine.html
