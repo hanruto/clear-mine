@@ -1,2 +1,2 @@
 # mine
-在线演示地址：http://htmlpreview.github.io/?https://github.com/soWhiteSoColl/clear-mine/blob/master/mine/mine.html
+在线演示地址：https://sowhitesocoll.github.io/clear-mine/
